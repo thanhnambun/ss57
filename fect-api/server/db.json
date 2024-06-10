@@ -1,0 +1,68 @@
+{
+    "products": [{
+            "id": "1",
+            "product_name": "Laptop Dell XPS 13",
+            "image": "https://example.com/images/dell-xps-13.jpg",
+            "price": 1500,
+            "quantity": 10,
+            "created_at": "2024-01-15T10:30:00Z"
+        },
+        {
+            "id": "2",
+            "product_name": "Apple iPhone 14",
+            "image": "https://example.com/images/iphone-14.jpg",
+            "price": 1200,
+            "quantity": 25,
+            "created_at": "2024-02-10T12:45:00Z"
+        },
+        {
+            "id": "4",
+            "product_name": "Sony WH-1000XM4",
+            "image": "https://example.com/images/sony-wh-1000xm4.jpg",
+            "price": 350,
+            "quantity": 50,
+            "created_at": "2024-04-20T11:15:00Z"
+        },
+        {
+            "id": "5",
+            "product_name": "Nintendo Switch",
+            "image": "https://example.com/images/nintendo-switch.jpg",
+            "price": 300,
+            "quantity": 40,
+            "created_at": "2024-05-30T14:20:00Z"
+        },
+        {
+            "id": "10",
+            "product_name": "Laptop Dell XPS 13",
+            "image": "https://example.com/images/dell-xps-13.jpg",
+            "price": 1501230,
+            "quantity": 12320,
+            "created_at": "2024-01-15T10:30:00Z"
+        }
+    ],
+    "productB7": [{
+            "id": "number",
+            "name": "táo",
+            "price": 123123,
+            "quantity": 100,
+            "dateAdded": "27/5/2024",
+            "image": "https://antimatter.vn/wp-content/uploads/2022/05/hinh-anh-qua-tao.jpg"
+        },
+        {
+            "id": "number",
+            "name": "mì",
+            "price": 123123,
+            "quantity": 100,
+            "dateAdded": "27/5/2024",
+            "image": "https://antimatter.vn/wp-content/uploads/2022/05/hinh-anh-qua-tao.jpg"
+        },
+        {
+            "id": "number",
+            "name": "táo",
+            "price": 123123,
+            "quantity": 100,
+            "dateAdded": "27/5/2024",
+            "image": "https://antimatter.vn/wp-content/uploads/2022/05/hinh-anh-qua-tao.jpg"
+        }
+    ]
+}
